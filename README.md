@@ -1,6 +1,7 @@
 # 🌟 Günün Mesajı - Motivasyon Uygulaması
 
-Bu Flutter tabanlı mobil uygulama, kullanıcıya rastgele seçilen olumlu, motive edici ve ilham verici mesajlar sunarak gününü güzelleştirir. Basit ama etkili bir arayüzle kullanıcıya ruh halini iyileştirme fırsatı sunar.
+Bu Flutter tabanlı mobil uygulama, kullanıcıya rastgele seçilen olumlu, motive edici ve ilham verici mesajlar sunarak gününü güzelleştirir. 
+Basit ama etkili bir arayüzle kullanıcıya ruh halini iyileştirme fırsatı sunar.
 
 ## ✨ Özellikler
 
