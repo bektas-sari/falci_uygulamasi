@@ -43,7 +43,8 @@ GitHub üzerinden projeye erişmek için:
 
 ## 🤝 Katkıda Bulunmak
 
-Katkılar her zaman hoş karşılanır! Yeni mesajlar ekleyebilir, arayüzü geliştirebilir veya yeni özellikler önerebilirsiniz. Pull request göndermeden önce `Issues` sekmesini kontrol etmeniz önerilir.
+Katkılar her zaman hoş karşılanır! Yeni mesajlar ekleyebilir, arayüzü geliştirebilir veya yeni özellikler önerebilirsiniz. 
+Pull request göndermeden önce `Issues` sekmesini kontrol etmeniz önerilir.
 
 ## 📄 Lisans
 
