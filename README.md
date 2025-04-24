@@ -39,7 +39,7 @@ flutter run
 ## 🔗 Proje Bağlantısı
 
 GitHub üzerinden projeye erişmek için:
-[github.com/kullaniciadi/motivasyon_uygulamasi](https://github.com/kullaniciadi/motivasyon_uygulamasi)
+[github.com/bektas-sari/motivasyon_uygulamasi](https://github.com/bektas-sari/motivasyon_uygulamasi)
 
 ## 🤝 Katkıda Bulunmak
 
